@@ -1,0 +1,13 @@
+.body {
+  display: flex;
+  justify-content: center;
+}
+.content {
+  margin-left: 160px;
+}
+h1 {
+  color: red;
+}
+p {
+  color: pink;
+}
